@@ -6,5 +6,6 @@
 git clone https://github.com/rahulsidpatil/password-generator.git
 cd password-generator
 make build
+```
 ## Usage
 ./password-generator --length=16 --special
